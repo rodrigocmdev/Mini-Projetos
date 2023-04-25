@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@1,500&display=swap');
+
+body{
+    font-family: 'Andada Pro', serif;
+    font-weight: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(29, 29, 29);
+    color: blanchedalmond;
+}
