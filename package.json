@@ -1,0 +1,14 @@
+{
+  "name": "mini-projetos",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rodrigo Macedo",
+  "license": "MIT",
+  "devDependencies": {
+    "cfonts": "^3.2.0"
+  }
+}
